@@ -166,6 +166,8 @@
 
 ---
 
+📝 **想添加笔记？** [在 GitHub 上编辑此页面](https://github.com/bigeye-ai/spx0dtegexguide/edit/main/chapters/02-ice-surface.md)
+
 <p align="center">
   <i>记住：负 Gamma = 冰面 = 趋势跟踪 🔴</i>
 </p>

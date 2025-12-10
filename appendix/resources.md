@@ -10,7 +10,7 @@
 
 | 资源 | 链接 | 说明 |
 |-----|------|------|
-| **GexBot** | [@gaborblast](https://twitter.com/gaborblast) | Twitter 上的 SPX GEX 数据机器人 |
+| **GexBot** | [@thegexbot](https://x.com/thegexbot) | X 上的 SPX GEX 数据机器人 |
 | **CBOE 期权数据** | [cboe.com](https://www.cboe.com/us/options/market_statistics/) | 官方数据，有延迟 |
 
 ### 付费资源
@@ -77,9 +77,9 @@
 
 | 账号 | 领域 |
 |-----|------|
-| [@gaborblast](https://twitter.com/gaborblast) | GexBot |
-| [@spotgamma](https://twitter.com/spotgamma) | SpotGamma 官方 |
-| [@jam_croissant](https://twitter.com/jam_croissant) | 波动率分析 |
+| [@thegexbot](https://x.com/thegexbot) | GexBot |
+| [@spotgamma](https://x.com/spotgamma) | SpotGamma 官方 |
+| [@jam_croissant](https://x.com/jam_croissant) | 波动率分析 |
 
 ### 0DTE / 日内交易
 
@@ -151,6 +151,8 @@
 - 不构成任何投资建议
 
 ---
+
+📝 **想添加资源？** [在 GitHub 上编辑此页面](https://github.com/bigeye-ai/spx0dtegexguide/edit/main/appendix/resources.md)
 
 <p align="center">
   <i>资源只是工具，行动才是关键 🔗</i>

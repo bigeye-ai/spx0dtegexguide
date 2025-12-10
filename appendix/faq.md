@@ -185,6 +185,8 @@
 
 ---
 
+📝 **想添加问题？** [在 GitHub 上编辑此页面](https://github.com/bigeye-ai/spx0dtegexguide/edit/main/appendix/faq.md)
+
 <p align="center">
   <i>问问题是学习的开始 —— 没有蠢问题，只有不问的人 ❓</i>
 </p>

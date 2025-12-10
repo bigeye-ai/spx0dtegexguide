@@ -220,6 +220,8 @@ GEX: +5B → +1B → -0.5B → +2B → +4B
 
 ---
 
+📝 **想添加笔记？** [在 GitHub 上编辑此页面](https://github.com/bigeye-ai/spx0dtegexguide/edit/main/chapters/03-the-flip.md)
+
 <p align="center">
   <i>翻转点是战场的转折点 —— 识别它，尊重它，利用它 ⚡</i>
 </p>

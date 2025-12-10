@@ -130,6 +130,8 @@
 
 ---
 
+📝 **想添加笔记？** [在 GitHub 上编辑此页面](https://github.com/bigeye-ai/spx0dtegexguide/edit/main/chapters/01-rubber-band.md)
+
 <p align="center">
   <i>记住：正 Gamma = 橡皮筋 = 均值回归 🔵</i>
 </p>

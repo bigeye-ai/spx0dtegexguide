@@ -125,6 +125,8 @@ Total GEX = Σ(所有 Call 的 GEX) - Σ(所有 Put 的 GEX)
 
 ---
 
+📝 **想添加笔记？** [在 GitHub 上编辑此页面](https://github.com/bigeye-ai/spx0dtegexguide/edit/main/basics/what-is-gex.md)
+
 <p align="center">
-  <i>理解 GEX，就是理解做市商的"手"在推着价格往哪走 📊</i>
+  <i>理解 GEX，就是理解做市商的“手”在推着价格往哪走 📊</i>
 </p>

@@ -67,7 +67,7 @@
 
 ## 📖 延伸阅读
 
-- [GexBot 官方 Twitter](https://twitter.com/gaborblast)
+- [GexBot 官方 X](https://x.com/thegexbot)
 - [SpotGamma 原理解读](https://spotgamma.com/)
 - [末日期权交易社群](#) (Coming Soon)
 

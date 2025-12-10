@@ -6,9 +6,9 @@
 
 ## 🎯 GexBot 是什么
 
-GexBot 是 Twitter/X 上的一个机器人账号，每隔一段时间发布 SPX 的 Gamma Exposure 数据图表。
+GexBot 是 X 上的一个机器人账号，每隔一段时间发布 SPX 的 Gamma Exposure 数据图表。
 
-**官方账号：** [@gaborblast](https://twitter.com/gaborblast)
+**官方账号：** [@thegexbot](https://x.com/thegexbot)
 
 ---
 
@@ -144,9 +144,9 @@ GexBot 的柱状图显示各行权价的 GEX 分布：
 
 ## 📱 设置 GexBot 提醒
 
-### Twitter/X 设置
+### X 设置
 
-1. 关注 [@gaborblast](https://twitter.com/gaborblast)
+1. 关注 [@thegexbot](https://x.com/thegexbot)
 2. 点击账号主页的🔔图标
 3. 选择"所有推文"通知
 
@@ -164,6 +164,8 @@ GexBot 的柱状图显示各行权价的 GEX 分布：
 <!-- 在这里添加你的笔记 -->
 
 ---
+
+📝 **想添加笔记？** [在 GitHub 上编辑此页面](https://github.com/bigeye-ai/spx0dtegexguide/edit/main/basics/reading-gexbot.md)
 
 <p align="center">
   <i>GexBot 是地图，但你才是驾驶员 📱</i>

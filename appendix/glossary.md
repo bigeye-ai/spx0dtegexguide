@@ -114,6 +114,8 @@
 
 ---
 
+📝 **想添加术语？** [在 GitHub 上编辑此页面](https://github.com/bigeye-ai/spx0dtegexguide/edit/main/appendix/glossary.md)
+
 <p align="center">
   <i>工欲善其事，必先利其器 —— 理解术语是交易的第一步 📖</i>
 </p>

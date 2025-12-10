@@ -254,6 +254,8 @@ CPI 数据发布
 
 ---
 
+📝 **想添加笔记？** [在 GitHub 上编辑此页面](https://github.com/bigeye-ai/spx0dtegexguide/edit/main/chapters/04-fakeouts.md)
+
 <p align="center">
   <i>市场专门收割急躁的人 —— 耐心，是最好的过滤器 🎭</i>
 </p>
