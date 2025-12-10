@@ -1,7 +1,6 @@
 # Summary
 
 * [🏠 首页](README.md)
-* [🏗️ 架构文档](ARCHITECTURE.md)
 
 ## 🎯 实战策略
 

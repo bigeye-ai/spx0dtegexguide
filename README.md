@@ -3,7 +3,7 @@
 > **让每一个中文交易员都能看懂 GexBot 数据，做好末日期权交易。**
 
 [![GitHub stars](https://img.shields.io/github/stars/bigeye-ai/spx0dtegexguide?style=social)](https://github.com/bigeye-ai/spx0dtegexguide)
-[![GitBook](https://img.shields.io/badge/GitBook-在线阅读-blue?logo=gitbook)](https://your-gitbook-url.gitbook.io)
+[![GitBook](https://img.shields.io/badge/GitBook-在线阅读-blue?logo=gitbook)](https://kangs-personal-organization-1.gitbook.io/spx0dtegexguide)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/bigeye-ai/spx0dtegexguide/pulls)
 
 ---
@@ -35,7 +35,7 @@
 
 ### 我是交易员，想学习
 
-1. 👉 直接访问 [GitBook 在线版](https://your-gitbook-url.gitbook.io)
+1. 👉 直接访问 [GitBook 在线版](https://kangs-personal-organization-1.gitbook.io/spx0dtegexguide)
 2. 从「橡皮筋战术」开始阅读
 3. 配合 GexBot 实时数据实践
 
@@ -43,7 +43,7 @@
 
 **零门槛参与！** 你完全不需要会编程：
 
-1. 访问 [GitBook 在线版](https://your-gitbook-url.gitbook.io)
+1. 访问 [GitBook 在线版](https://kangs-personal-organization-1.gitbook.io/spx0dtegexguide)
 2. 点击页面右上角的「Edit」按钮
 3. 直接编辑，保存即可！
 
@@ -62,14 +62,6 @@
     ↓                           ↓
 橡皮筋战术 🔵                 冰面竞速 🔴
 ```
-
----
-
-## 🏗️ 技术架构
-
-想了解本项目的运作机制？查看 [ARCHITECTURE.md](./ARCHITECTURE.md)
-
-**TL;DR:** GitHub 存储源码 ↔ GitBook 提供可视化编辑 ↔ 双向同步
 
 ---
 
